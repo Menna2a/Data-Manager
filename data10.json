@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "fname": "menna",
+        "lname": "mohameed",
+        "city": "cairo",
+        "age": 21
+    },
+    {
+        "id": 2,
+        "fname": "islam",
+        "lname": "ahmed",
+        "city": "cairo",
+        "age": 30
+    },
+    {
+        "id": 4,
+        "fname": "mido",
+        "lname": "abdelrahman",
+        "city": "poland",
+        "age": 27
+    },
+    {
+        "id": 5,
+        "fname": "mido",
+        "lname": "abdelrahman",
+        "city": "poland",
+        "age": 27
+    }
+]
